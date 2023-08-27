@@ -45,8 +45,8 @@
     
 
     .logo-image {
-        width: 500px;
-        height: 699px;
+        width: 555px;
+        height: 755px;
         margin-left: 125px;
         display: inline-block;
         
@@ -55,8 +55,6 @@
     section {
         display: inline-block;
         margin-left: 86px;
-        
-
     }
 
     h1 {
@@ -69,8 +67,8 @@
 
     h2 {
         font-weight: 500;
-        font-size: 58px;
-        line-height: 71px;
+        font-size: 47px;
+        line-height: 55px;
         color: #adff00;
     }
 
@@ -96,6 +94,7 @@
         font-size: 28px;
         font-weight: 34px;
         color: #000000;
+        display: inline-block;
     }
     
     @media screen and (max-width 800px){
