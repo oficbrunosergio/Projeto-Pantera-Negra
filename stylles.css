@@ -8,8 +8,16 @@
     header {
         margin: 44px 0 144px 76px;
         
+        
     }
-
+    .diferencial {
+        font-weight: 900;
+        font-size: 100px;
+        line-height: 122px;
+        color: #adff00;
+        display: inline;
+        
+    }
     .link-header {
         font-weight: 600;
         font-size: 24px;
@@ -63,7 +71,7 @@
         font-weight: 500;
         font-size: 58px;
         line-height: 71px;
-        color: #c6ee59;
+        color: #adff00;
     }
 
     p {
@@ -77,7 +85,7 @@
     }
 
     .button-main {
-        background: #c6ee59;
+        background: #adff00;
         border-radius: 30px;
         width: 239px;
         height: 64px;
