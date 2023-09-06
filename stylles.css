@@ -97,24 +97,63 @@
         display: inline-block;
     }
     
-    @media screen and (max-width 800px){
+    @media screen and (max-width: 800px) {
         .div {
             width: 390PX;
             height: 342PX;
             display: block;
         }
 
-        h1 {
-        text-align: center;
-
-        }
         .link-header {
             display: none;
 
+
         }
 
-        img {
+        .logo-image {
             position: static;
+            width: 255px;
+            height: 375px;
+            margin-left: 450px;
+            display: inline-block;
+
+
+        }
+
+        .section {
+           display: inline-block;
+           ;
+                
+        
+        }
+
+         h1 {
+            font-weight: 900;
+            font-size: 100px;
+            line-height: 100px;
+            color: #adff00;
         }
         
-    } 
+        .diferencial {
+        color: #848484;
+        }
+
+        h2 {
+            color: #858585;
+        }
+
+        p {        
+        color: #adff00;
+        }
+
+        header {
+            margin: 44px 0 144px 76px;
+            display: inline-block;
+
+
+        }
+
+
+
+
+        }
