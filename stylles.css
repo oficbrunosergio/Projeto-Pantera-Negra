@@ -43,12 +43,18 @@
 
     }
     
+    .imagem-rio {
+        width: 100vh;
+        height: 100vw;
+        position: fixed;
+    }
 
     .logo-image {
         width: 555px;
         height: 755px;
-        margin-left: 125px;
-        display: inline-block;
+        position: fixed;
+        margin: 0px 0 0 780px
+        
         
     }
 
@@ -110,25 +116,33 @@
 
         }
 
+        .imagem-rio {
+            
+
+        }
         .logo-image {
             position: static;
             width: 255px;
             height: 375px;
             margin-left: 450px;
+            position: absolute;
+            margin: 680px 0 0 299px;
+
+        }
+        header {
+            margin: 44px 0 1px 76px;
+
+        }
+        .link-header {
             display: inline-block;
-
-
-            
-
+            margin-right: 25px;
+                 
+        }
+        .button-main {
+            margin: 0px 198px;
         }
 
-        .section {
-           display: inline-block;
-           
-                
-        
         }
-
          h1 {
             font-weight: 900;
             font-size: 100px;
@@ -149,11 +163,7 @@
             
         }
 
-        header {
-            display: none;    
-        
-
-        }
+       
 
 
 
