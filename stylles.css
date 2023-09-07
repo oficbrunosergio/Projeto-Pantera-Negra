@@ -103,7 +103,7 @@
         display: inline-block;
     }
     
-    @media screen and (max-width: 800px) {
+    @media screen and (max-width: 1362px) {
         .div {
             width: 390PX;
             height: 342PX;
@@ -113,9 +113,7 @@
         .link-header {
             display: none;
 
-
         }
-
       
         .logo-image {
             position: static;
@@ -123,41 +121,57 @@
             height: 375px;
             margin-left: 450px;
             position: absolute;
-            margin: 680px 0 0 299px;
+            margin: 680px 0 0 259px;
+            
         }
-
         header {
-            margin: 44px 0 1px 76px;
+            margin: 44px 0 1px 18px;
+            position: fixed;
+            display: inline-grid;
 
         }
         .link-header {
             display: inline-block;
-            margin-right: 25px;
-                 
+            margin: 0 0 43px 0
         }
-        .button-main {
-            margin: 0px 198px;
-        }
-
-        
-         h1 {
-            font-weight: 900;
-            font-size: 100px;
-            line-height: 100px;
-            color: #adff00;
-        }
-        
-        .diferencial {
-            color: #848484;
-        }
-
-        h2 {
-            color: #858585;
-        }
-
-        p {        
-            color: #adff00;
+        .section {
+            width: 100px;
+            height: 100px;
+            padding-left: 80px;
+            margin-left: 89px;
+            margin: 0 0 0 11px;
             
         }
 
+        .button-main {
+            margin: 0px 10px 0 1%;
+            position: fixed;
+        }
+        
+      
+        
+        h2 {
+            color: #858585;
+                      
+        }
+        .segundo-tex {
+            font-size: 25px;
+            
+        }
+        p {        
+            color: #adff00;
+            width: 222px;  
+        }
+        h1 {
+            font-weight: 800;
+            font-size: 50px;
+            line-height: 50px;
+            color: #adff00;
+            display: inline-block;
+            .diferencial {
+                color: #848484;
+                font-size: 50px;
+            }
+        }
+        
     }
