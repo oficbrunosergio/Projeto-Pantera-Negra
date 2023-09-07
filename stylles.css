@@ -116,10 +116,7 @@
 
         }
 
-        .imagem-rio {
-            
-
-        }
+      
         .logo-image {
             position: static;
             width: 255px;
@@ -127,8 +124,8 @@
             margin-left: 450px;
             position: absolute;
             margin: 680px 0 0 299px;
-
         }
+
         header {
             margin: 44px 0 1px 76px;
 
@@ -142,7 +139,7 @@
             margin: 0px 198px;
         }
 
-        }
+        
          h1 {
             font-weight: 900;
             font-size: 100px;
@@ -163,9 +160,4 @@
             
         }
 
-       
-
-
-
-
-        }
+    }
