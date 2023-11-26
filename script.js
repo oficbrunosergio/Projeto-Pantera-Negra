@@ -15,14 +15,16 @@ const users = [
   },
 ];
 
-const input document.querySelector(#main-input)
+const input = document.querySelector("#main-input")
 
 function digiteiNoInput(){
-   console.log("Digitei no input")
+   console.log(input.value)
  }
+
+
 function cliqueiNoBotao(){
-  console.log("input.value")
-
-
+  console.log("Botão CLicado com Sucesso!")
 }
+
+
 console.log(users[0]);

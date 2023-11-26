@@ -1,11 +1,3 @@
-const notaDoAluno = 7
-const notaDeCorte = 5
-
-
-if(notaDoAluno > notaDeCorte){
-
-
-
-
-    
-}
+const input = document.querySelector("#main-input")
+const select = document.querySelector("select")
+const button = document.querySelector(".main-button")
